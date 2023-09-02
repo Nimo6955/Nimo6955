@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Sukhpal Singh</h2>
- <h2> I'm a Full Stack Web developer </h2>
+<h2 align="left">Hi 👋! My name is Sukhpal Singh
+ I'm a Full Stack Web developer </h2>
 
 ###
 
