@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Sukhpal Singh
- I'm a Full Stack Web developer </h2>
+<h2 align="left">Hi 👋! My name is Sukhpal Singh </h2>
+<h2> I'm a Full Stack Web developer </h2>
 
 ###
 
@@ -45,7 +45,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nimo6955/Nimo6955/output/snake.svg" alt="Snake animation" />
 
 ###
